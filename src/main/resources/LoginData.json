@@ -1,0 +1,19 @@
+{
+  "url": "https://accounts.simplilearn.com/user/login?redirect_url=https%3A%2F%2Flms.simplilearn.com%2F",
+  "user1": {
+    "username": "jyothikanandamuri3@gmail.com",
+    "password": "Jyothika@777"
+  },
+  "user2": {
+    "username": "useruser@gmail.com",
+    "password": "User1@123"
+  },
+  "user3": {
+    "username": "jyo@gmail.com",
+    "password": "User2@123"
+  },
+  "user4": {
+    "username": "Ice@gmail.com",
+    "password": "Icecream@123"
+  }
+}
